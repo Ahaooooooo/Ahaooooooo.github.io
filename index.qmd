@@ -1,9 +1,20 @@
 ---
-title: "Zhang Zihao"
+title: "Hello! 你好！"
+image: pictures/profile3.jpg
+2toc: false
+about: 
+  template: broadside
+  image-shape: rectangle
+  image-width: 12em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/zihao-zhang-98252525a
+    - text: GitHub
+      href: https://github.com/Ahaooooooo
+    - text: Email
+      href: zihao.zhang@sociology.ox.ac.uk
 ---
 
-Nihao\~
+I’m currently a second-year MPhil student of Sociology and Demography at the University of Oxford. I’m intereted in how social stratification, inequality and mobility are affected by social changes and social structural forces, particuarly those related to the labor market and political economy. Methodologically, I’m interested in quantitative methods that enable both credible causal inference and big-picture population-level insights. I’m also intereted in sociological theories and how to combine (quantitative) empirical evidence with historical-theoretical explanations and narratives.
 
-```{r}
-1 + 1
-```
+Previously, I obtained my BSc degree with First Class Honours in Social Sciences with Data Science at University College London.
