@@ -1,3 +1,47 @@
 ---
 title: "Research"
 ---
+
+I'm broadly interested in the causes and consequences of social inequality and how they change over time — across labour markets, migration, and public attitudes toward redistribution. Below are the projects I'm currently working on; click through for a brief summary and the full text.
+
+```{=html}
+<div class="research-grid">
+
+<a class="research-card" href="/research/rural-urban-inequality.html">
+  <img src="/pictures/research_cover/RuralUrbanInq.png" alt="Cover figure for Bringing the Rural Population Back In">
+  <div class="research-card-body">
+    <p class="research-meta">MPhil Thesis &middot; Chapter 2</p>
+    <h3>Bringing the Rural Population Back In</h3>
+    <p class="research-teaser">Income inequality trends in post-reform China look different once the rural, agricultural population is brought back into the picture.</p>
+  </div>
+</a>
+
+<a class="research-card" href="/research/migration-returns.html">
+  <img src="/pictures/research_cover/MigrationInc.png" alt="Cover figure for The Labour Market Returns to Rural-Urban Migration in China">
+  <div class="research-card-body">
+    <p class="research-meta">MPhil Thesis &middot; Chapter 3</p>
+    <h3>The Labour Market Returns to Rural-Urban Migration</h3>
+    <p class="research-teaser">Rural-urban migrants see a sizeable and lasting income gain &mdash; but how much of it comes from leaving farming behind?</p>
+  </div>
+</a>
+
+<a class="research-card" href="/research/social-capital-unions.html">
+  <img src="/pictures/research_cover/SocialCapitalUnion.png" alt="Cover figure for The Social Foundation of Trade Unions">
+  <div class="research-card-body">
+    <p class="research-meta">Article &middot; Revise &amp; Resubmit, Socio-Economic Review</p>
+    <h3>The Social Foundation of Trade Unions</h3>
+    <p class="research-teaser">Local social capital, especially network clustering, helps explain where unions stay strong in the United States.</p>
+  </div>
+</a>
+
+<a class="research-card" href="/research/redistribution.html">
+  <img src="/pictures/research_cover/Redistribution.png" alt="Cover figure for the welfare deservingness vignette study">
+  <div class="research-card-body">
+    <p class="research-meta">Working Paper</p>
+    <h3>Who Deserves Welfare?</h3>
+    <p class="research-teaser">A vignette experiment on what makes people see others as deserving of welfare support &mdash; and whether information about inequality changes the calculus.</p>
+  </div>
+</a>
+
+</div>
+```
